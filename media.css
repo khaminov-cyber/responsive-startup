@@ -1,0 +1,16 @@
+@media (max-width: 576px){
+    .wrapper2{
+        width: 94%;
+
+    }
+    .google{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    /* img{
+        flex-direction: column;
+    } */
+
+}
